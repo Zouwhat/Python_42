@@ -1,8 +1,8 @@
 """ name.py """
 def main():
     """ name.py """
-    first_name = 'Watin'
-    last_name = 'Promfiy'
+    first_name = 'Guagoon'
+    last_name = 'Wasoontara'
     print(f'{first_name} {last_name}')
 
 main()
